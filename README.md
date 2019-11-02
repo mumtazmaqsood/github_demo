@@ -59,4 +59,6 @@
          
         To make new branch and switch to new branch
             $ git checkout -b my_branch
+        
+        To merge branches 
          

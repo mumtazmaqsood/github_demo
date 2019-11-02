@@ -51,6 +51,7 @@
         git pull origin master 
      
 #Branches
+
         To check how many branches it has 
             $ git branch
             

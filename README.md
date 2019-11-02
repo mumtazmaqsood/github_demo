@@ -61,5 +61,6 @@
         To make new branch and switch to new branch
             $ git checkout -b my_branch
         
-        To merge branches 
+        To merge branches (move to mastar branch and then merge it) 
+            $ git merge 2nd_branch
          

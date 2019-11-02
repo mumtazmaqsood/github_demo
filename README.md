@@ -57,6 +57,6 @@
         To change from one branch to another 
             $ git checkout  branch-name 
          
-        To make new branch
+        To make new branch and switch to new branch
             $ git checkout -b my_branch
          

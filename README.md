@@ -49,3 +49,10 @@
     git pull command help to get the updated code on our local machine
     
         git pull origin master 
+     
+   #Branches
+        To check how many branches it has 
+            $ git branch
+            
+        To change from one branch to another 
+            $ git checkout  branch-name 

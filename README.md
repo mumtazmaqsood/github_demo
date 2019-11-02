@@ -42,7 +42,10 @@
             1- git status
             2- git add -p
             3- git commit -m "add msg"
-            4- git push origin master (this command push code into cloned dir)             
-            
- 
- 
+            4- git push origin master (this command push code into cloned dir)
+    
+   #Git Pull
+    If multiple developer working with same dir and push their codes as well. then
+    git pull command help to get the updated code on our local machine
+    
+        git pull origin master 

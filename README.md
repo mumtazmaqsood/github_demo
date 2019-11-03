@@ -64,3 +64,9 @@
         To merge branches (move to mastar branch and then merge it) 
             $ git merge 2nd_branch
          
+#Resoloving Conflicts
+        
+        Let suppose two deveolopers are working with same code file , when they commit
+        their code , it will create conflict
+        sciner  
+                 

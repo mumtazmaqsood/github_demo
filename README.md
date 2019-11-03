@@ -68,5 +68,11 @@
         
         Let suppose two deveolopers are working with same code file , when they commit
         their code , it will create conflict
-        sciner  
-                 
+        and message come like that
+        
+        $ git merge 2nd_branch
+        Auto-merging 2ndfile.txt
+        CONFLICT (content): Merge conflict in 2ndfile.txt
+        Automatic merge failed; fix conflicts and then commit the result.  
+        
+              

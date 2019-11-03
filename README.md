@@ -75,4 +75,10 @@
         CONFLICT (content): Merge conflict in 2ndfile.txt
         Automatic merge failed; fix conflicts and then commit the result.  
         
-              
+        resolove
+            open file and remove comments from master and 2nd branches
+            git add filename
+            git commit  (without writing -m)
+                it will open in editor , review it and save it , it will open in 
+                vim editor , command to save and quit :wq
+                  

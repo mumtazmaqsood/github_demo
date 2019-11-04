@@ -101,7 +101,7 @@
         
      $ git stash
         Saved working directory and index state WIP on master: cf69f1e ignore file
-     $ git pop
+     $ git stash pop
 
         
     this code is written in 2nd_branch

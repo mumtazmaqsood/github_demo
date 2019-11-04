@@ -90,9 +90,15 @@
     make a file with name ".gitignore" and write file name inside this file which 
     need to be ignore 
     
-        $ touch .gitignore 
+       $ touch .gitignore 
+
+#git Stash 
+
+    If there is piece of code is not ready to commit and developer need to change
+    branch , and don't want to commit code , there is stash command can be use, 
+    and stash pop command can retrive code again and commit it 
+ 
         
-        
-        
-        $ git stash
+     $ git stash
         Saved working directory and index state WIP on master: cf69f1e ignore file
+

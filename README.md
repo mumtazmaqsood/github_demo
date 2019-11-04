@@ -91,3 +91,8 @@
     need to be ignore 
     
         $ touch .gitignore 
+        
+        
+        
+        $ git stash
+        Saved working directory and index state WIP on master: cf69f1e ignore file

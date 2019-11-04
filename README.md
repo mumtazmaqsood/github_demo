@@ -81,4 +81,13 @@
             git commit  (without writing -m)
                 it will open in editor , review it and save it , it will open in 
                 vim editor , command to save and quit :wq
-                  
+        
+        # Blame command: will show to who work with the file last time
+        $ git blame 2ndfile.txt
+        
+#Ignore Files
+    
+    make a file with name ".gitignore" and write file name inside this file which 
+    need to be ignore 
+    
+        $ touch .gitignore 

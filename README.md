@@ -56,3 +56,5 @@
             
         To change from one branch to another 
             $ git checkout  branch-name 
+        
+    this code is written in 2nd_branch

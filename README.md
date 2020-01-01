@@ -156,4 +156,12 @@
 
         
     this code is written in 2nd_branch
+    
+    
+#The “fatal: refusing to merge unrelated histories” Git error
+    SOLUTION
+    The error is resolved by toggling the allow-unrelated-histories switch. 
+    After a git pull or git merge command, add the following tag:
+
+        git pull origin master --allow-unrelated-histories
 
